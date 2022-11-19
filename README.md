@@ -4,7 +4,7 @@ Designed a multi-page website offering two routes - a root route and an alternat
 ### External node modules used:
 - express
 - body-parser
-## Technology Stack:
+### Languages and technologies:
 - HTML5
 - JavaScript ES6
 - Unix Command Line
